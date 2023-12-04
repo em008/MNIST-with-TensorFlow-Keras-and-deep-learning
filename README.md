@@ -7,4 +7,5 @@ A neural network with multiple layers is explored. A learning rate schedule is a
 The MNIST dataset, a collection of 60,000 labeled digits is used.
 
 References:
-https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist?hl=en
+[link](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist?hl=en)
+
